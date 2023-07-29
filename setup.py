@@ -15,7 +15,7 @@ AUTHOR_EMAIL = "sarang22695@gmail.com"
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
-    author=AUTHOR_USER_NAME,
+    author=AUTHOR_USER_NAME, 
     author_email=AUTHOR_EMAIL,
     description="A small python package for ml app",
     long_description=long_description,
